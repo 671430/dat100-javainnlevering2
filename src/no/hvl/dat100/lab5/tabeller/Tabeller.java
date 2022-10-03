@@ -1,3 +1,4 @@
+//Oppgave 1 - Oblig 2.
 package no.hvl.dat100.lab5.tabeller;
 
 import static java.lang.Integer.parseInt;
@@ -102,7 +103,7 @@ public class Tabeller {
 		
 		for(int k = 0; k < a; k++)	{
 			
-			System.out.println(tab2[k]);
+			System.out.println(tab2[k]); 
 		
 		}
 			
